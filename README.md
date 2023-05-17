@@ -16,12 +16,16 @@
 ```
 3、启动
 ​	http://localhost:9200/
+
 > 4、安装可视化界面es head插件
+> 
 1、下载地址： https://github.com/mobz/elasticsearch-head/
 2、cd elasticsearch-hand-master      
 3、npm install
 4、npm run start
+
 > 5、安装kibana
+
 1、下载
 2、进入 bin目录
 3、运行：./kibana (注意：需要在elasticsearch已经启动的情况下，才不会报错)
